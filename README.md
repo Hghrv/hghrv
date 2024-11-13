@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I’m currently working on Data Engineering projects. Passioned about Mathematics, Modelisation & Analytics, Data Science, Software development, Music & Sound-Engineering, Project Management and Sports.
+- 🌱 I’m currently learning Remote Version Control Management and Optimisation.
+- 👯 I’m looking to collaborate on projects related to Data Analytics, Machine Learning, Data Engineering, Web and Software development.
+- 🤔 I’m looking for help with upgrading to latest and best practices from experienced professionals.
+- 💬 Ask me about anything that I could help with and 
+- 📫 How to reach me: email me at htchoumkeu@yahoo.fr
+- 😄 Pronouns: He
+- ⚡ Riddle: Break the egg and you can see the sun again`
+
 <!--
 **Hghrv/hghrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
