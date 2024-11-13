@@ -4,7 +4,7 @@ I’m currently working on Data Engineering projects. Passioned about Mathematic
 - 🌱 I’m currently learning Remote Version Control Management and Optimisation.
 - 👯 I’m looking to collaborate on projects related to Data Analytics, Machine Learning, Data Engineering, Web and Software development.
 - 🤔 I’m looking for help with upgrading to latest and best practices from experienced professionals.
-- 💬 Ask me about anything that I could help with and 
+- 💬 Ask me about anything that I could help with, or propose a collaboration on a project.
 - 📫 How to reach me: email me at htchoumkeu@yahoo.fr
 - 😄 Pronouns: He
 - ⚡ Riddle: Break the egg and you can see the sun again !
