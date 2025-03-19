@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi ! 👋
 
 I’m currently working on Data Engineering projects. Passioned about Mathematics, Modelisation & Analytics, Data Science, Software Development, Music & Sound-Engineering, Project Management and Sports.
 - 🌱 I’m currently learning Remote Version Control Management and Optimisation.
