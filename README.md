@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on showcasing several of my Data Engineering projects. Passioned about Mathematics, Modelisation & Analytics, Data Science, Software Development, Music & Sound-Engineering, Project Management and Sports.
 - 🌱 I recently worked on JAVA and JUnit Testing, Data Bricks, ETL Pipelines, Data Lakes and Data Warehouses, Collaborative Git for Version Control,  Cloud Computing, automation testing and deployment with Terraform, Large Language Models, Generative AI and more.... 
-- 👯 I’m also looking for job opportunities suitable for a Junior Data Engineer and keen to collaborate on projects related to Data Engineering, Data Analytics, Machine Learning, LLMs, Generative AI as well as Web and Software development.
+- 👯 I’m also looking for job opportunities suitable for a Junior Data Engineer and keen to collaborate on projects related to Data Engineering, Data Analytics, Machine Learning, LLMs, Generative AI or Web and Software development.
 - 💬 Ask me about anything that I could help or support with, or kindly propose a collaboration on a project.
 - ✨ My personal Portfolio-Website: https://hghrv.github.io/Portfolio-Website
 - 📫 How to reach me: email me at htchoumkeu@yahoo.fr
